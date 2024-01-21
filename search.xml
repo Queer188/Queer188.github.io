@@ -4,24 +4,38 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2023/08/08/hello-world/"/>
-      <url>/2023/08/08/hello-world/</url>
+      <title>既是第一篇文章也是2023总结</title>
+      <link href="/2024/01/21/1/"/>
+      <url>/2024/01/21/1/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="终于开始了博客之路了"><a href="#终于开始了博客之路了" class="headerlink" title="终于开始了博客之路了"></a>终于开始了博客之路了</h2><span id="more"></span><ul><li>这个hexo站还比较容易建起来，可以说是最适合小白搭建的博客记录生活网站了</li><li>好吧是因为Vue在win系统老是报错，我才选了一个比较容易搭建的在linux系统搭建起来了</li><li>伯乐北北这个公众号总共两个多月的时间更新了26篇原创，粉丝终于突破600了，终于！</li></ul><h2 id="最近———"><a href="#最近———" class="headerlink" title="最近———"></a>最近———</h2><p>所谓饱读诗书才能写出好文章，工欲善其事必先利其器，最近的北北浏览别的技术大佬写的博客，<br>浏览过了很多很多，还是觉得永远不够，或许我并不应该只是局限在于网上，而是更应该去看一些出版读物，<br>然后把它实践出来，不然总是感觉心理好像有点不踏实。  </p><blockquote><p>最近老师给了好些个课题，我打算做一步写一步，心动不如行动，明天运动完就去图书馆</p></blockquote><h3 id="一些个小美好："><a href="#一些个小美好：" class="headerlink" title="一些个小美好："></a>一些个小美好：</h3><ul><li>宝宝长的好可爱，行动也好可爱！！！   </li><li>我真的抵抗不住！真的很想rua她一下！</li><li>距离见面还有34天，坚持住！</li></ul>]]></content>
       
       
+      <categories>
+          
+          <category> 北北的碎碎念 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 碎碎念 </tag>
+            
+            <tag> 总结 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>post</title>
-      <link href="/2023/08/05/post/"/>
-      <url>/2023/08/05/post/</url>
+      <title>Hello World</title>
+      <link href="/2023/08/08/hello-world/"/>
+      <url>/2023/08/08/hello-world/</url>
       
-        <content type="html"><![CDATA[<h3 id="hexo建站之路"><a href="#hexo建站之路" class="headerlink" title="hexo建站之路"></a>hexo建站之路</h3>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
